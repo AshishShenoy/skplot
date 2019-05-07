@@ -1,0 +1,6 @@
+# Python Files
+__pycache__
+
+# IDE Files
+.vscode
+.idea
