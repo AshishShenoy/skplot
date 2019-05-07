@@ -34,4 +34,5 @@ Usage:
 
 
 This was my first lab project in Python 3, and I chose this as I liked 
-statistical math, particularly regression and fitting.
+statistical math, particularly regression and fitting. Any pull requests 
+and forks are welcome.
